@@ -12,7 +12,7 @@
 
 
 > inpaint_telea - SHAP value가 매우 낮게 측정되어 변별력이 떨어지는 현상
-![alt text](image.png)
+![alt text](ex_images\image-1.png)
 
 > inpaint_ns - inpaint_telea보다 특징 반영
 ![alt text](image-1.png)

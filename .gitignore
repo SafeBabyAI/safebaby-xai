@@ -2,6 +2,11 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks,images
 
 ### Images ###
+resnet50_sample_data/V5
+resnet50_sample_data/V6
+resnet50_sample_data/V7
+resnet50_sample_data/V8
+
 # JPEG
 *.jpg
 *.jpeg
