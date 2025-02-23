@@ -12,10 +12,10 @@
 
 
 > inpaint_telea - SHAP value가 매우 낮게 측정되어 변별력이 떨어지는 현상
-![alt text](ex_images\image-1.png)
+![alt text](example_plots/image.png)
 
 > inpaint_ns - inpaint_telea보다 특징 반영
-![alt text](image-1.png)
+![alt text](example_plots/image-1.png)
 
 > blur(3, 3) - 국소적인 특징 확인 가능
-![alt text](image-2.png)
+![alt text](example_plots/image-2.png)
