@@ -26,7 +26,8 @@
 > 등 부분을 Back으로 파악하나 다리와 일부 배경의 패턴이 Front 특징으로 작용
 ![alt text](example_plots/121.png)
 
-> 머리 일부분이 Front의 특징으로 작용
+> 머리 일부분이 Front의 특징으로 작용</br>
+특징을 못 잡아내고 있는 것으로 보아 아기의 형체를 잘 인식하지 못하는 것으로 보임
 ![alt text](example_plots/output11.png)
 
 > 맨살이 드러난 다리 부분이 Front의 특징으로 작용
