@@ -20,8 +20,9 @@
 ![alt text](example_plots/image-2.png)
 
 ## blur(3, 3) 마스커를 활용한 오분류 데이터 탐색
-### Back을 Front로 오분류
-- 위험 상황을 안전 상황으로 분류한 2종 오류 이기 때문에 패턴 파악 필요
+- 위험 상황(Back)을 안전 상황(Front, Side)로 분류한 2종오류의 원인을 분석
+
+### 1. Back을 Front로 오분류
 
 > 등 부분을 Back으로 파악하나 다리와 일부 배경의 패턴이 Front 특징으로 작용
 ![alt text](example_plots/121.png)
@@ -63,7 +64,7 @@
 실제 사용시 최대한 아기가 똑바로 보일 수 있도록 카메라의 설치 방향이 중요할 것으로 보인다.
 ![alt text](example_plots/image-11.png)
 
-### Back을 Side로 오분류
+### 2. Back을 Side로 오분류
 
 > 낮은 화질로 아기의 형체를 잘 인식하지 못하는 것으로 보임</br>
 ![alt text](example_plots2/image.png)
