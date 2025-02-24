@@ -1,6 +1,6 @@
 # ResNet50 explain
 
-- 가장 높은 성능을 보이는 V5 모델의 오분류(2종 오류) 원인 분석
+- 가장 높은 성능을 보이는 V5 모델의 2종 오류 원인 분석
 
 # Partition Explainer
 
@@ -23,7 +23,7 @@
 ### Back을 Front로 오분류
 - 위험 상황을 안전 상황으로 분류한 2종 오류 이기 때문에 패턴 파악 필요
 
-> 등 부분을 Back으로 파악하나 일부 배경의 패턴이 Front 특징으로 작용
+> 등 부분을 Back으로 파악하나 다리와 일부 배경의 패턴이 Front 특징으로 작용
 ![alt text](example_plots/121.png)
 
 > 머리 일부분이 Front의 특징으로 작용
