@@ -39,8 +39,6 @@ SHAP(Shapley Additive Explainations)는 모델의 예측을 설명하기 위한 
 
 # YOLOv8 분석
 
-
-
 #### YOLO의 객체 감지 동작 과정
 1. 입력 이미지를 S x S 그리드로 분할
 2. 각 그리드에서 B개의 바운딩 박스와 신뢰도(confidence)점수 예측
