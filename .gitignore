@@ -6,10 +6,14 @@ resnet50_explain/resnet50_sample_data/V5
 resnet50_explain/resnet50_sample_data/V6
 resnet50_explain/resnet50_sample_data/V7
 resnet50_explain/resnet50_sample_data/V8
+yolov8_explain/Baby_Monitoring.v4i.yolov8
+yolov8_explain/runs/detect/train/weights/*
+# yolov8_explain/runs/detect/train2/weights
+# yolov8_explain/runs/detect/train13/weights
 
 
 ### JupyterNotebooks ###
-# gitignore template for Jupyter Notebooks
+# gitignore template for Jupyter NoteboSoks
 # website: http://jupyter.org/
 
 .ipynb_checkpoints
