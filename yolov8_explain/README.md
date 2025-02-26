@@ -8,8 +8,8 @@
 ![alt text](image-2.png)
 ![alt text](image-1.png)
 
-- "baby" 클래스의 Confidence 값은 0.8~0.9 중앙값 약 0.85~0.9로, 매우 높음
-- "nose", "mouth" 클래스의 중앙값 0.6~0.7
+- "baby" 클래스의 Confidence 값은 0.8 - 0.9 중앙값 약 0.85 - 0.9로, 높음
+- "nose", "mouth" 클래스의 중앙값 0.6 - 0.7
 - "nose"의 IQR 범위가 0.5 부근까지 아래로 치우친 편 
     - confidence 임계치를 0.5로 설정하여도 미감지 가능성 
 
@@ -24,5 +24,4 @@
 
 # Grad-CAM 분석
 
->아기의 얼굴
 ![alt text](image.png)
